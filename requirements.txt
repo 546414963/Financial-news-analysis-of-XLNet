@@ -1,0 +1,12 @@
+#keras==2.8.0
+#numpy==1.18.5
+#pandas==1.3.5
+#scikit-learn==1.0.2
+#scipy==1.4.1
+sentencepiece==0.1.96
+tables
+tensorflow==2.5.0
+tokenizers==0.12.1
+#torch==1.7.1
+#tqdm==4.64.0
+transformers==4.17.0
